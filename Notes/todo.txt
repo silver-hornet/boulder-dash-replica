@@ -1,0 +1,15 @@
+# Boulder Dash
+
+https://www.youtube.com/watch?v=FiEVfa1OK_o
+https://www.boulder-dash.com/boulder-dash-online-game/
+
+# Features
+
+- Player movement (grid units, no diagonal movement, dig movement)
+- Tilemap (wall, ground, player, diamond, rock)
+- Wall is solid collider
+- Ground disappears
+- Diamond disappears (gravity, falls to the left/right of other rocks when there is a blank space there, kills player, explodes a 9x9 grid)
+- Rock physics (can be pushed by player, gravity, falls to the left/right of other rocks when there is a blank space there, kills player, explodes a 9x9 grid)
+- UI (lives, diamond target, diamonds collected time limit, score)
+- Level exit (unlocks when diamond target reached)
